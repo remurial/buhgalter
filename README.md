@@ -1,0 +1,2 @@
+# buhgalter
+no table relation 
